@@ -1,0 +1,8 @@
+streamlit
+openai
+llama-index
+nltk
+langchain
+langchain-community
+sentence-transfromers
+llama-index-embeddings-langchain
